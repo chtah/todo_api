@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "todo" ALTER COLUMN "date" SET DATA TYPE TIMESTAMP(3);
